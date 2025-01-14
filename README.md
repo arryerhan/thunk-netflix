@@ -28,3 +28,10 @@ The following libraries and tools have been used in this project:
 - @splidejs/react-splide: A React wrapper for Splide.js.
 - Millify: A library for formatting large numbers, e.g., for displaying ratings and views.
 - UUID: A library for generating unique identifiers, especially used for dynamic list rendering.
+
+
+## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/822ceb7c-726c-4366-afac-4b390ba2cadc)
+
+![screen02](https://github.com/user-attachments/assets/0384685f-c1a9-45f0-9db0-d4e279d76dac)
